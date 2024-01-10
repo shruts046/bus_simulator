@@ -3,6 +3,7 @@
 The Bus Network Simulation project is a Java-based application that models and visualizes a bus transportation network. This project aims to simulate bus movements, visualize routes, and manage network layouts.
 
 **Project Structure**
+
 Author.java: Contains information about the authors or contributors of the project.
 Bus.java: Defines the Bus class with attributes and methods to handle bus operations.
 RoadMap.java: Manages the road network, including routes, connectivity, and other map-related functionalities.
@@ -20,10 +21,10 @@ User Interface: Interactive components for users to view and manage the bus netw
 **How to Set Up**
 
 Clone the repository to your local machine.
-Ensure you have Java installed on your system. This application requires Java [specify version].
-Open the project using a Java-compatible IDE (e.g., Eclipse, IntelliJ IDEA).
+Ensure you have Java installed on your system.
+Open the project using a Java-compatible IDE.
 
 **How to Run**
 
-Navigate to the main class (potentially BusVisualizer.java) and run the application through the IDE.
+Navigate to the main class and run the application through the IDE.
 Interact with the graphical interface to simulate and visualize the bus network.
